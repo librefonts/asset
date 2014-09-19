@@ -1,0 +1,32 @@
+{
+  "name": "Asset",
+  "designer": "Riccardo De Franceschi",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 25533,
+  "fonts": [
+    {
+      "name": "Asset",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Asset-Regular.ttf",
+      "postScriptName": "Asset",
+      "fullName": "Asset",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Asset\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Asset",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Asset-TTF.ttf",
+      "postScriptName": "Asset",
+      "fullName": "Asset",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Asset\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-06-29"
+}
